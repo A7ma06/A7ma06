@@ -25,13 +25,6 @@ I like projects where you can measure performance properly: **throughput, latenc
 **Software**
 - C / embedded (MCU work), basic Python for analysis/automation
 - Git + GitHub (docs + reproducible builds)
-## What you’ll find on this GitHub
-- FPGA projects with:
-  - clear READMEs + diagrams
-  - build steps + constraints
-  - results: Fmax/latency/resource tables
-- Embedded + signal-processing prototypes
-- Notes / mini-labs for stuff I’m learning
 
 ---
 
