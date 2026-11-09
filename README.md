@@ -4,8 +4,6 @@ I am Ahmed
 
 I’m an **Electronic & Electrical Engineering** student at **UCL**. 
 
-I am also a gym goer, gamer, martial artist and caffeine addict. 
-
 Currently I am invested in building FPGA/Embedded projects.
 
 
